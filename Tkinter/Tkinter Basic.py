@@ -52,5 +52,3 @@ login_btn.pack(pady=(10,20))
 login_btn.config(font=("verdana", 10))
 
 root.mainloop()
-git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
