@@ -1,0 +1,26 @@
+# Flipkart Login Interface (Python-Tkinter)
+
+A desktop-based GUI application that simulates a login screen for Flipkart. This project was developed to demonstrate GUI design principles, event handling, and image processing in Python.
+
+## 🌟 Key Features
+* **Brand-Consistent UI:** Designed with Flipkart's signature blue (`#0096DC`) and white color palette.
+* **Dynamic Image Handling:** Uses the **Pillow** library to process and resize the Flipkart logo for a crisp display.
+* **Interactive Elements:** Includes customized `Entry` widgets for user credentials and a high-contrast Login button.
+* **Real-time Feedback:** Integrated `messagebox` alerts to notify the user of successful or failed login attempts.
+
+## 🛠️ Tech Stack
+* **Language:** Python 3.x
+* **GUI Framework:** Tkinter
+* **Image Processing:** Pillow (PIL)
+
+## 📸 Interface Preview
+The application features:
+1. A 70x70 resized brand logo.
+2. A title header using the "Verdana" font.
+3. User-friendly input fields with internal padding (`ipady`) for better visibility.
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/your-username/flipkart-login-gui.git](https://github.com/your-username/flipkart-login-gui.git)
